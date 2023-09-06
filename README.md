@@ -2,7 +2,7 @@
 
 Deployed URL: https://aniplanetapp.ccbp.tech
 
-### Refer to the video below:
+
 
 <br/>
 <div style="text-align: center;">
